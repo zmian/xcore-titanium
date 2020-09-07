@@ -1,4 +1,4 @@
-#xcore-titanium [![MIT License][license-image]][license-url]
+# xcore-titanium [![MIT License][license-image]][license-url]
 
 A library that brings custom view modules and utilities to develop applications faster and efficiently using [Appcelerator Titanium](http://appcelerator.com/titanium).
 
